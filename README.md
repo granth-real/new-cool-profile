@@ -1,16 +1,15 @@
-## 👏 Hi, I'm _YOUR_NAME_HERE_!
+## 👏👏👏👏👏👏👏👏👏👏 Hi, I'm Grant Hull!
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+I'm pretty new to cybersecurity but it is so interesting! I have been doing coding for a few years however so it has been fun applying it to cybersecurity. I'm majoring in Computer Science and I used to work at Walmart. I like to lots of stuff like hang out with my friends.
 ## ⚒️ Skills
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+Coding
+Playing
+Hanging Out
 ## 🎉 Interests
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
 ## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/granth-real)
 
-_"your-sample-favorite-quote"_
+_"Hello"_
